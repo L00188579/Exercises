@@ -1,3 +1,4 @@
+#!/bin/bash
 # by: Alan Coughlan
 # Date: 25/10/24
 # Function: Perform a remote commit
