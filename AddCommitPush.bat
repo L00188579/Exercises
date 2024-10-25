@@ -15,7 +15,7 @@ git status
 
 echo '**************************************************'
 echo "Enter the commit message: "
-set /P  CommitMessage= ""
+set /P CommitMessage= ""
 git commit -m %CommitMessage%
 git status
 
