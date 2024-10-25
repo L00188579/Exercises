@@ -14,7 +14,7 @@ git add .
 git status
 
 echo '**************************************************'
-echo Enter the commit message:
+echo "Enter the commit message:"
 read -p CommitMessage
 git commit -m "$CommitMessage"
 git status
